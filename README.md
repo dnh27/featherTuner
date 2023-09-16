@@ -9,8 +9,9 @@ It tells the frequency/pitch of a guitar string.
 With a piezo sensor, the guitar headstock's vibrations are converted into a voltage, which the Arduino (a Feather ESP32 S2 Reverse TFT) processes using Fast Fourier Transform to provide the output frequency in Hz.
 
 ## Images
+failed print
 
-[failed print](failedPrint.jpg?raw=true)
+<img src="failedPrint.jpg" width="300">
 
 ### TODO
  - add finished product image
