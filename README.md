@@ -12,13 +12,15 @@ With a piezo sensor, the guitar headstock's vibrations are converted into a volt
  - Understanding and Applying the FFT algorithm and library.
  - Choosing the right Windowing method to avoid misreadings
 
-## Images
-failed print
+# Images
+### failed print
 
 <img src="failedPrint.jpg" width="300">
 
+### finished product
+![](finished.JPG)
+
 ### TODO
- - add finished product image
  - perform FFT with button press instead of in intervals
  - Display Battery Percentage 
 
