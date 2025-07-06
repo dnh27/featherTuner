@@ -15,10 +15,10 @@ With a piezo sensor, the guitar headstock's vibrations are converted into a volt
 # Images
 ### failed print
 
-<img src="failedPrint.jpg" width="300">
+<img src="failedPrint.jpg" width="200">
 
 ### finished product
-![](finished.JPG)
+<img src="finished.JPG" width="200">
 
 ### TODO
  - perform FFT with button press instead of in intervals
